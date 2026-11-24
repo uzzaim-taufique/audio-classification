@@ -1,0 +1,14 @@
+# Dataset: 6 GB, too big for GitHub. Download it from Kaggle instead.
+data/
+*.zip
+
+# Generated data files (recreated by running the scripts)
+*.mat
+
+# MATLAB temporary / autosave files
+*.asv
+*.m~
+
+# Windows system files
+Thumbs.db
+desktop.ini
